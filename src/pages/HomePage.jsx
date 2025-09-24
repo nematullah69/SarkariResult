@@ -51,11 +51,27 @@ const HomePage = () => {
   ];
 
   const latestResults = [
-    { id: "ssc-CPO-2024-result", title: "SSC CPO 2024 Result", organization: "SSC", date: "08 August 2025" },
-    { id: "upsc-cse-2024-result", title: "UPSC CSE 2024 Final Result", organization: "UPSC", date: "12 Jan 2025" },
-    { id: "ssc-SG-2024-result", title: "SSC Stenographer Grade C, D Result 2025", organization: "SSC", date: "05 March 2025" },
-    { id: "ssc-GD-2024-result", title: "SSC GD Constable Result 2025", organization: "SSC", date: "17 June 2025" },
-    { id: "RRB-NTPC", title: "RRB NTPC Graduate Level Result 2025", organization: "RRB", date: "Sep 2025 (Expected)" },
+    { id: "ssc-CPO-2024-result", title: "SSC CPO Paper 2 Result 2025 OUT", organization: "SSC", date: "08 August 2025" },
+      { id: "ssc-SG-2024-result", title: "SSC Stenographer Grade C, D Result 2025", organization: "SSC", date: "05 March 2025" },
+      { id: "ssc-GD-2024-result", title: "SSC GD Constable Result 2025", organization: "SSC", date: "17 June 2025" },
+      { id: "ssc-JE-2024-result", title: "SSC Junior Engineer JE 2024 Final Result", organization: "SSC", date: "03 February 2024" },
+      { id: "rssb-2024- jail-result", title: "Rajasthan RSSB Jail Prahari Result 2025 Out", organization: "Rajasthan RSSB", date: "30 August 2025" },
+      { id: "CBSE-2025- jail-result", title: "CBSE Junior Assistant Result 2025", organization: "CBSE", date: "29 August 2025" },
+      { id: "NEET-2025- PG-result", title: "National Eligibility cum Entrance Test – Postgraduate (NEET PG) 2025", organization: "NBE", date: "19 August 2025" },
+      { id: "SBI-2025-1st-result", title: "SBI Clerk 1st Waiting List 2025 {OUT} PDF Download", organization: "SBI", date: "05 September 2025" },
+      { id: "SHO-2025-1st-result", title: "Bihar SHSB CHO Result 2025 OUT", organization: "NHM Bihar", date: "09 August 2025" },
+      { id: "RSMSSB-2025-1st-result", title: "Rajasthan RSMSSB Animal Attendant Result 2025", organization: "RSMSSB", date: "07 August 2025" },
+      { id: "HSSC-CET-2025-result", title: "HSSC CET Result 2025", organization: "HSSC", date: "Out Soon" },
+      { id: "NBL-Clerk", title: "Nainital Bank Clerk Result", organization: "Nainital Bank", date: "01 February 2025" },
+      { id: "RCet-2025", title: "Rajasthan CET 12th Level Result 2025 OUT, Score Card Download", organization: "Rajasthan Board", date: "17 February 2025" },
+      { id: "bsedc-2025-result", title: "BELTRON DEO Result 2025 Declared: Check Cut-Off Marks & Download Scorecard at bsedc.bihar.gov.in", organization: "BSEDC", date: "17 April 2025 (Tentative)" },
+      { id: "rvnul-2025", title: "RVUNL JE & Chemist Result 2025 – Download Scorecard", organization: "RVUNL", date: "19 April 2025" },
+
+      { id: "RRB-NTPC", title: "RRB NTPC Graduate Level Result 2025", organization: "RRB", date: "September 2025 (Expected)" },
+      { id: "RRB-JE", title: "RRB JE CBT 2 Result 2025", organization: "RRB", date: "02 June 2025" },
+      { id: "RRB-ALP", title: "RRB ALP Tier 2 Result 2025", organization: "RRB", date: "01 July 2025" },
+      { id: "upsc-cse-2025-result", title: "UPSC ESIC Nursing Officer Final Result 2025", organization: "UPSC", date: "16 July 2025" },
+      { id: "SSC-HPR-2024-result", title: "UPSSSC Homoeopathic Pharmacist Result 202", organization: "UPSSSC", date: "02 September 2025" }
   ];
 
   const latestAdmitCards = [
